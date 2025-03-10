@@ -1,3 +1,9 @@
+Deployment link: https://fswd-ca1-xi.vercel.app/
+
+i have written the code correctly but i coudnt get the output
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
